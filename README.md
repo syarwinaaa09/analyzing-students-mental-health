@@ -22,8 +22,8 @@ This project explores a dataset related to student mental health, focusing on ho
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/syarwinaaa09/student-mental-health-analysis.git
-   cd student-mental-health-analysis\
+   git clone https://github.com/syarwinaaa09/analyzing-students-mental-health.git
+   cd analyzing-students-mental-health\
    ```
 2. Open the notebook:
    ```bash
